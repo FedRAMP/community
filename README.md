@@ -1,4 +1,4 @@
-![](./assets/FedRAMP20x%20-%20Black.png)
+<img src="https://www.fedramp.gov/assets/icons/PNG/FR%20Logo_square_1color.png" height="200" width="200">
 
 # Community Repository
 
