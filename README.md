@@ -2,7 +2,7 @@
 
 # Community Repository
 
-This repository is for FedRAMP's two active community working groups that are open entirely to the public. These working groups interact in public on GitHub Discussions with bi-weekly summary recap sessions hosted on Zoom by FedRAMP.
+This repository is for FedRAMP's two active community working groups that are open entirely to the public. These working groups interact in public on GitHub Discussions with monthly summary recap sessions hosted on Zoom by FedRAMP.
 
 ## FedRAMP 20x
 
