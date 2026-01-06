@@ -9,14 +9,14 @@ This repository is for FedRAMP's two active community working groups that are op
 This group focuses on exploring how FedRAMP can rely on automated validations to the greatest extent possible, and simply documentation and management requirements by relying on existing best practices and commercial security frameworks.
 
 - [Discussion forum link](https://github.com/FedRAMP/community/discussions/)
-- [Zoom registration link](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw) for monthly recap sessions
+- [Google Meet Link](https://meet.google.com/usc-stjx-zzj) for monthly recap sessions
 
 ## FedRAMP Rev5
 
 This group focuses on grounding all Rev5 authorization and monitoring processes in modern security practices; revising and modifying the existing approach to enable commercial cloud providers to better deliver their services to the government.
 
 - [Discussion forum link](https://github.com/FedRAMP/community/discussions/)
-- [Zoom registration link](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ) for monthly recap sessions
+- [Google Meet Link](https://meet.google.com/hzp-dgon-xwo) for monthly recap sessions
 
 ## Meeting recordings
 
