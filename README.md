@@ -1,4 +1,4 @@
-<img src="https://www.fedramp.gov/assets/icons/PNG/FR%20Logo_square_1color.png" height="200" width="200">
+<img src="https://www.fedramp.gov/fedramp-logo-inverse-simple.svg" height="200" width="200">
 
 # Community Repository
 
